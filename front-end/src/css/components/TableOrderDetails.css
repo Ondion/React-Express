@@ -1,0 +1,27 @@
+.container-master-table-order-details {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  justify-content: center;
+  margin-top: 20px;
+  width: 100%;
+}
+
+.container-geral-table-order-details {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  justify-content: center;
+  padding: 10px;
+  width: 100%;
+}
+
+table {
+  border: 1px solid #e0e0e0;
+  border-collapse: collapse;
+  border-spacing: 0;
+  margin-bottom: 20px;
+  width: 100%;
+}
